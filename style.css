@@ -1,1 +1,91 @@
+div{
+        margin-top: 10px;
+
+      }
+
+      .append-a-couple-of-ideas{
+        font-size: 100px;
+        text-transform: uppercase;
+      }
+
+      .kira2{
+        font-size: 70px;
+      }
+
+      /* .box-one{
+        font-family: Impact;
+        color: red;
+        font-size: 70px;
+        width: 300px;
+        height: 400px;
+        padding:150px;
+        margin-left: 10px;
+        border-color: black;
+        border-width: 5px;
+        margin-right: auto;
+      }  */
+
+       .box-two{
+        width: 600px;
+        height: 800px;
+        padding:150px;
+        margin-left: 10px;
+        border-width: 5px;
+        margin-right: auto;
+      }
+
+      .box-three{
+        font-size: 10px;
+        width: 500px;
+        padding: 30px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .starting-text{
+        font-weight: bold;
+        font-size: 20px;
+      }
+
+      /* .box-three{
+        font-size: 10px;
+        width: 500px;
+        padding: 30px;
+        border-color: red;
+        margin-left: auto;
+        margin-right: auto;
+      } */
+
+      .starting-text{
+        font-weight: bold;
+        font-size: 20px;
+      }
+
+  .eggs1{
+        border: 50px red solid;
+        background-repeat: no-repeat;
+}
+
+/* .eggs2{
+        border: 110px red solid;
+        height: 300px;
+        padding-top: 400px;
+
+} */
+
+
+.button {
+  border: 1px solid black;
+  width: 90px;
+  text-align: center;
+  margin-button: 20px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.home {
+  background-color: white;
+  border-color: maroon;
+  color: maroon;
+}
 
